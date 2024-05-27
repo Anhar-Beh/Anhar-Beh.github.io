@@ -76,7 +76,7 @@ html {
 }
 
 body {
-    background: #7a4949;
+    background: #202020;
     color: #ffffff;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 16pt;
@@ -1360,7 +1360,7 @@ ul.actions.fit.stacked {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg.png");
+		background-image: url("images/overlay.png"), url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxxZ3hoeGFyYXR1bTNtdjY5MWJreXo0NXg0MjMxc2o2bjRycGs1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Byour3OgR0nWnRR6Tc/giphy.gif");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
@@ -1845,7 +1845,7 @@ ul.actions.fit.stacked {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+				background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc1c2FyZHRzNTdxdHV5YTE1MjNldTdtYzFkejhlMTg4amlzMDJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/crwwGNqIMccLXpD10F/giphy.gif");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
